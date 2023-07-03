@@ -1,4 +1,10 @@
-# Aplicação completa com React, MaterialUI e Typescript
+<div align="center">
+    <h1>Aplicação completa com React, MaterialUI e Typescript</h1>
+</div>
+
+<div align="center">
+  <img src="./src/img/demonstrativo.png" >
+</div>
 
 ## Sobre
 Aplicação completa com paginação, responsividade, troca de tema, consultas e muito mais. Nesse sistema é possível realizar um CRUD de cidades e pessoas.
